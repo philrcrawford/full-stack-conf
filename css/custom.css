@@ -1,0 +1,17 @@
+.navbar .navbar-brand {
+  color: rgba(255, 255, 255, 0.85);
+  font-size: 1rem;
+}
+
+.jumbotron {
+  background-image: url('../img/jumbo-bg.jpg');
+  background-size: cover;
+}
+
+.schedule-thumbnail {
+  max-width: 100px;
+}
+
+/* .list-group-item {
+  border: none;
+} */
